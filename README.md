@@ -1,4 +1,4 @@
-# express-backend-notlari
+# express-nodejs-backend-notlari
 
 Bu repoda, **Express.js** ve **Node.js** kullanarak backend geliştirmeyi öğrenirken edindiğim bilgileri ve örnekleri adım adım paylaşıyorum.  
 Her klasör, bir konuyu veya öğrenme aşamasını temsil eder.
