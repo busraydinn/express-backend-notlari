@@ -14,7 +14,6 @@ Bu yöntem, gerçek hayattaki projelerde hem kodun taşınabilirliğini artırı
 - **Güvenlik:** `.env` dosyası `.gitignore` içine eklenerek hassas veriler versiyon kontrol sistemine girmez.
 
 ---
-
 ## 🧱 Kurulum ve Kullanım
 
 ### 1️⃣ Gerekli Paketleri Kur
